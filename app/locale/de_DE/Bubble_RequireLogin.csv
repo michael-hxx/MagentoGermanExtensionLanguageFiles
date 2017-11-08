@@ -1,0 +1,7 @@
+"Login Options”,"Anmeldeoption"
+"Require Login","Login erforderlich"
+"Require Login Whitelist","Login nicht erforderlich bei diesen URLs"
+"Regular expression that is used to match request strings that do not need customer authentication.","Regulärer Ausdruck für die URLs, die keine Authentifizierung benötigen."
+"Full overview available","Komplette Übersicht verfügbar"
+"here","hier"
+"Bubble RequireLogin is a module that can force user authentication in frontend.","Bubble RequireLogin ist ein Modul welches die Benutzeranmeldung im Frontend erzwingt."
